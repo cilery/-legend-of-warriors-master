@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bounds
+  - Water
+  - Interactable
+  - enemy
+  - enemyAttack
+  - defense
+  - Spike
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Spike
+  - Water
+  - UI
+  - enemy
+  - player
+  - attack
+  - defense
+  - other
+  - ground
+  - Boss
+  - sign
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 77982657
+    locked: 0
+  - name: Middle
+    uniqueID: 4105955345
+    locked: 0
+  - name: Front
+    uniqueID: 470802325
+    locked: 0
